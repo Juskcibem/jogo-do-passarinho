@@ -1,3 +1,6 @@
+## 📸 Preview
+![preview](preview.png)
+
 # 🐤 Jogo do Passarinho (Flappy Bird simples)
 
 Projeto de um jogo 2D simples inspirado em Flappy Bird, desenvolvido com:
