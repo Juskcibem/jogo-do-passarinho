@@ -6,6 +6,9 @@ Projeto de um jogo 2D simples inspirado em Flappy Bird, desenvolvido com:
 - CSS
 - JavaScript puro
 - Canvas
+- 
+🌐 Acesse o projeto
+(https://juskcibem.github.io/jogo-do-passarinho/)
 
 ## 🎮 Como jogar
 - Pressione **Espaço** ou clique na tela para pular
