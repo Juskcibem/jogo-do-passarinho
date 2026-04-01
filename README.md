@@ -1,4 +1,4 @@
-## 📸 Preview
+## Preview
 ![preview](preview.png)
 
 # 🐤 Jogo do Passarinho (Flappy Bird simples)
