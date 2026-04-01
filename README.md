@@ -15,4 +15,4 @@ Um jogo simples inspirado no Flappy Bird, feito com HTML, CSS e JavaScript usand
 ![preview](preview.png)
 
 ## Demo
-[(link do github pages)](https://juskcibem.github.io/jogo-do-passarinho/)
+[(Jogo do Passarinho)](https://juskcibem.github.io/jogo-do-passarinho/)
